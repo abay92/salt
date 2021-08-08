@@ -5,10 +5,11 @@ Untuk testing :
 - db ada di folder doc
 
 Step
-- Create db
+- create db
 - copy and rename .env.example to .env
 - set env
-- run node js -> node server.js
+- run npm -> $ npm install
+- run node js -> $ node server.js
 - import collection dan environment postman
 
 Terimakasih
